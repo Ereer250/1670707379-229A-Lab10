@@ -19,7 +19,7 @@ public class Contoller: MonoBehaviour
     public float stallLiftMultiplier = 0.3f; // ลด lift เมื่อ stall
 
     [Header("Control")]
-    public float pitchPower = 15f; // เชิดหัว
+    public float pitchPower = 2f; // เชิดหัว
     public float rollPower = 20f;  // เอียง
     public float yawPower = 15f;   // เลี้ยว turn
 
